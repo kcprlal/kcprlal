@@ -1,6 +1,6 @@
 
 <h1>Hi 👋, I'm Kacper</h1>
-<p>  📖 Electronics and telecommunications student in AGH Univeristy of Cracow, mostly interested in programming and embedded systems.</p>
+<p>  📖 Electronics and telecommunications student at AGH Univeristy of Cracow, mostly interested in programming and embedded systems.</p>
 <p> 🖥 I’m most experienced with C++, having worked on many projects using this language. I’ve developed various applications and focused on optimizing performance.</p>
 <p> 🔧🔨 Currently working on my engineering thesis project, which involves designing and building a mobile platform for measuring atmospheric conditions on ESP-32.</p>
 <p> 🔭 Also currently taking a course that covers databases, Java programming, and microcontroller applications. </p>
